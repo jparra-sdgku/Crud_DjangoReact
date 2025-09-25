@@ -1,16 +1,2 @@
 # Crud_Django_React
-# Crud_Django_React
-# Crud_DjangoReact
-# Crud_DjangoReact
-# Crud_DjangoReact
-# Crud_DjangoReact
-# Crud_DjangoReact
-# Crud_DjangoReact
-# Crud_DjangoReact
-# Crud_Django_React
-# Crud_Django_React
-# Crud_Django_React
-# Crud_Django_React
-# Crud_Django_React
-# Crud_DjangoReact
-# Crud_DjangoReact
+
